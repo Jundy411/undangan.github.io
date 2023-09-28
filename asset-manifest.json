@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c461a14.css",
-    "main.js": "/static/js/main.62e1529d.js",
+    "main.css": "/static/css/main.a8f79623.css",
+    "main.js": "/static/js/main.cd044c18.js",
     "static/js/787.3de1e6c8.chunk.js": "/static/js/787.3de1e6c8.chunk.js",
     "static/media/cde.mp3": "/static/media/cde.c2ee71c8f4229e9911c3.mp3",
     "static/media/mandiri.png": "/static/media/mandiri.ab7a8aa4ad8a45fa0b05.png",
@@ -22,12 +22,12 @@
     "static/media/1695645866807.jpg": "/static/media/1695645866807.39d4327864a1c036a7fc.jpg",
     "static/media/1695645550413.jpg": "/static/media/1695645550413.734a5d3b0b49930ed2ac.jpg",
     "index.html": "/index.html",
-    "main.4c461a14.css.map": "/static/css/main.4c461a14.css.map",
-    "main.62e1529d.js.map": "/static/js/main.62e1529d.js.map",
+    "main.a8f79623.css.map": "/static/css/main.a8f79623.css.map",
+    "main.cd044c18.js.map": "/static/js/main.cd044c18.js.map",
     "787.3de1e6c8.chunk.js.map": "/static/js/787.3de1e6c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c461a14.css",
-    "static/js/main.62e1529d.js"
+    "static/css/main.a8f79623.css",
+    "static/js/main.cd044c18.js"
   ]
 }
